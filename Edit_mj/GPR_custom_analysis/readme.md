@@ -8,7 +8,7 @@
 -----------
 ## master_data_generated 파일 내 참조 내용  
 
-1. master_data_결측치제거_v1.ipynb : custom+ gpr+ 자산 및 지수 통합 수집 및 전처리 로직  
+1. master_data_generated.ipynb : custom+ gpr+ 자산 및 지수 통합 수집 및 전처리 로직  
 2. returns.csv : date,BTC,Gold,TLT,DXY,SP500,NASDAQ 에 대한 일자별 표준화 값  
 3. master_data.csv : date	event_name	event_date	GPR_custom	F3_raw	GPR	GPR_zscore	N	mean_tone	BTC	Gold	TLT	DXY	SP500	NASDAQ	VIX	fear_greed	fg_label	fear_greed_lag1	해당 컬럼 값 최종 파일  
 - 이미지 첨부  
