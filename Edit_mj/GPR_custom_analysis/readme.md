@@ -1,9 +1,10 @@
 ## GPR_custom_analysis 파일 내 참조 내용
 
-1. GPR_custom_analysis.ipynb : 수집 및 전처리 총 정리 파일  
-2. total_custom_gpr_final.csv : total 전처리 후 custom_gpr 저장 파일  
-3. gpr_combined.csv : total_gpr 표준화된 파일  
-4. gpr_correlation_summary.csv : 상관관계 별 결과값  
+1. GPR_custom_analysis.ipynb : 수집 및 전처리 총 정리 파일
+2. correlation.ipynb : 상관관계 30, 60, 90일 단위로 파악
+3. total_custom_gpr_final.csv : total 전처리 후 custom_gpr 저장 파일  
+4. gpr_combined.csv : total_gpr 표준화된 파일  
+5. gpr_correlation_summary.csv : 상관관계 별 결과값  
 
 -----------
 ## master_data_generated 파일 내 참조 내용  
